@@ -1,0 +1,15 @@
+# Foxel Apps & Games
+
+> Foxel Apps & Games makes small, calm and cozy apps and games for Android. All three work without creating an account. / Foxel Apps & Games, Android için küçük, sakin ve sevimli uygulamalar ve oyunlar yapar. Üçü de hesap açmadan kullanılır.
+
+## Apps
+
+- [Focus Room](https://hardsteelgames.github.io/odak-odasi/en.html): Stay off your phone, focus, decorate your room. (On Google Play)
+- [Mırıl](https://hardsteelgames.github.io/miril/en.html): A gentle cat who sits beside you while you quit smoking. (In closed testing on Google Play)
+- [Bakedoku](https://hardsteelgames.github.io/bakedoku/en.html): Every number is a pastry. A calm Sudoku. (In closed testing on Google Play)
+
+## Pages
+
+- [Türkçe](https://hardsteelgames.github.io/)
+- [English](https://hardsteelgames.github.io/en.html)
+- Contact: hardsteelgames@gmail.com

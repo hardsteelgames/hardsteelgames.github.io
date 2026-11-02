@@ -11,7 +11,7 @@
 - Counters show total smoke-free days and cigarettes not smoked; nothing resets, no streaks.
 - Privacy: notebook stored encrypted on the phone, no analytics, no account needed; optional Google sign-in backup.
 - Not a medical device or a treatment.
-- Developer: Foxel Apps & Games · hardsteelgames@gmail.com
+- Developer: [Foxel Apps & Games](https://hardsteelgames.github.io/) · hardsteelgames@gmail.com
 
 ## Pages
 

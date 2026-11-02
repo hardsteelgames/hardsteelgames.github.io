@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hardsteelgames.github.io/miril/sitemap.xml
+Sitemap: https://hardsteelgames.github.io/sitemap.xml
