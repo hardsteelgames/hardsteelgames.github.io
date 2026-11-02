@@ -1,0 +1,21 @@
+# Mırıl
+
+> Mırıl is a free Android app for adults and teens (13+) who are trying to quit smoking: a gentle cat sits beside you, and your daily check-ins become pages in a cozy notebook, without streaks, shame or pressure.
+
+> Mırıl, sigarayı bırakmaya çalışan 13 yaş ve üzeri herkes için ücretsiz bir Android uygulamasıdır: yanında yargılamayan bir kedi oturur, günlük check-in'lerin sıcacık bir defterde sayfa olur; seri, suçluluk ya da baskı yoktur.
+
+## Facts
+
+- Price: free. Ads only if the user taps "Watch an ad"; never on screens that help you quit.
+- Platform: Android (Google Play, closed testing at the time of writing). Languages: Turkish, English. Age: 13+.
+- Counters show total smoke-free days and cigarettes not smoked; nothing resets, no streaks.
+- Privacy: notebook stored encrypted on the phone, no analytics, no account needed; optional Google sign-in backup.
+- Not a medical device or a treatment.
+- Developer: Foxel Apps & Games · hardsteelgames@gmail.com
+
+## Pages
+
+- [Mırıl (Türkçe)](https://hardsteelgames.github.io/miril/): tanıtım ve sık sorulan sorular
+- [Mırıl (English)](https://hardsteelgames.github.io/miril/en.html): overview and FAQ
+- [Gizlilik politikası / Privacy policy](https://hardsteelgames.github.io/miril/privacy.html)
+- [Hesap ve veri silme / Account and data deletion](https://hardsteelgames.github.io/miril/delete-account.html)
