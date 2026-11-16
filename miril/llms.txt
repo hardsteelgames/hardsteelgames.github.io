@@ -7,7 +7,7 @@
 ## Facts
 
 - Price: free. Ads only if the user taps "Watch an ad"; never on screens that help you quit.
-- Platform: Android (Google Play, closed testing at the time of writing). Languages: Turkish, English. Age: 13+.
+- Platform: Android ([Google Play](https://play.google.com/store/apps/details?id=com.miril.miril)). Languages: Turkish, English. Age: 13+.
 - Counters show total smoke-free days and cigarettes not smoked; nothing resets, no streaks.
 - Privacy: notebook stored encrypted on the phone, no analytics, no account needed; optional Google sign-in backup.
 - Not a medical device or a treatment.
