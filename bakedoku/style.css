@@ -25,3 +25,8 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 40px 0; }
 code { background: var(--line); padding: 1px 5px; border-radius: 5px; }
 footer { margin-top: 44px; border-top: 1px solid var(--line); padding-top: 16px; color: var(--soft); font-size: .93rem; }
 footer a { margin-right: 14px; }
+
+.play-btn { display:inline-block; background:var(--btn); color:#fff; font-weight:700; text-decoration:none; padding:12px 22px; border-radius:999px; }
+.play-btn:hover, .play-btn:focus-visible { filter:brightness(1.1); outline:2px solid var(--accent); outline-offset:2px; }
+.shots { display:flex; gap:12px; overflow-x:auto; padding:6px 2px 14px; margin:8px 0 4px; scroll-snap-type:x proximity; }
+.shots img { height:420px; width:auto; flex:0 0 auto; border-radius:16px; border:1px solid var(--line); scroll-snap-align:start; }
