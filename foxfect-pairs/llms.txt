@@ -1,0 +1,22 @@
+# Foxfect Pairs
+
+> Foxfect Pairs is a cozy memory card-matching game for Android players aged 13 and up, where you find every pair before your moves run out while Foxi the fox reacts to what happens, with no timer in the levels and no internet needed.
+
+> Foxfect Pairs, 13 yaş ve üzeri Android oyuncuları için sakin bir hafıza kartı eşleştirme oyunudur: Foxi adlı tilki olanlara tepki verirken hamlelerin bitmeden bütün çiftleri bulursun; seviyelerde süre yoktur ve internet gerekmez.
+
+## Facts
+
+- Status: not released yet; a closed test on Google Play is being prepared.
+- Price: free to download. The current build has no ads and no purchases; no forced ads are planned.
+- Platform: Android 7.0 and newer. Languages: English, Turkish. Age: 13+.
+- 60 levels in 3 worlds, boards from 3×4 to 5×6, up to 3 stars per level, no timer in the levels.
+- 12 special cards (8 mischievous, 4 helpful), 3 helpers, an Endless mode that opens after level 10.
+- 18 card decks to collect from boxes opened with coins earned by playing; boxes are never sold for money.
+- Privacy: no account, no data collection, plays offline.
+- Developer: [Foxel Apps & Games](https://hardsteelgames.github.io/) · hardsteelgames@gmail.com
+
+## Pages
+
+- [Foxfect Pairs (English)](https://hardsteelgames.github.io/foxfect-pairs/en.html): overview, screenshots and FAQ
+- [Foxfect Pairs (Türkçe)](https://hardsteelgames.github.io/foxfect-pairs/): tanıtım, ekran görüntüleri ve sık sorulan sorular
+- [Privacy policy / Gizlilik politikası](https://hardsteelgames.github.io/foxfect-pairs/privacy.html)
